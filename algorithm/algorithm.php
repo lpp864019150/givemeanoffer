@@ -163,7 +163,7 @@ class Algorithm
         // 边界，递归必须有边界
         if ($l >= $r) return;
 
-        // 以p为基准点，划分左右两半，左边都是小于p，右边都是大于p
+        // 以point为基准点，划分左右两半，左边都是小于point，右边都是大于point
         $point = $arr[$r];
         $j = $l;
         for ($i = $l; $i < $r; $i++) {
@@ -175,7 +175,7 @@ class Algorithm
             }
         }
 
-        // p放在数组的中间位置
+        // point放在数组的中间位置
         $t = $arr[$j];
         $arr[$j] = $point;
         $arr[$r] = $t;
