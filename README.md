@@ -68,4 +68,4 @@
     * [Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn)
     * [PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)
     * [大话设计模式PHP版](https://design-patterns-by-php.hulin.ink/)
-    * [GO语言学习资源整理]https://zhuanlan.zhihu.com/p/25493806
+    * [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
