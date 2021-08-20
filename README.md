@@ -16,18 +16,30 @@
         * 禅道
 * 语言类
     * [php](http://php.net)
-    * go
+    * [go](https://zhuanlan.zhihu.com/p/25493806)
     * js
-    * 编程规范
+    * [编程规范](https://www.jianshu.com/p/b33155c15343)
 * 数据结构与算法设计
     * 数据结构
     * 算法
         * [冒泡排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
-        * 插入排序
-        * 选择排序
-        * 快速排序
+        * [插入排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
+        * [选择排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
+        * [快速排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
     * 设计模式
         * [Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn)
+        * [PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)
+        * [大话设计模式PHP版](https://design-patterns-by-php.hulin.ink/)
+        * 创建型
+            * [简单工厂模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/simpleFactory.php)
+            * [工厂方法模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/factoryMethod.php)
+            * [抽象工厂模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/abstractFactory.php)
+            * [构建器模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/builder.php)
+            * [原型模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/clone.php)
+            * [单例模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/singleton.php)
+            * [对象池](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/pool.php)
+        * 结构型
+        * 行为型
 * 数据库
     * mysql
     * redis
@@ -36,7 +48,7 @@
     * kafka
 * 网络与服务器
     * 网络
-        * 三次握手，四次挥手
+        * [三次握手，四次挥手](https://github.com/lpp864019150/givemeanoffer/blob/main/network/tcp.md)
         * 网络五层、七层
         * TCP
             * http/https
@@ -52,5 +64,8 @@
     * [PHP 优秀资源汇集 - 持续更新](https://shockerli.net/post/php-awesome/)
     * [虎B](https://github.com/TIGERB/easy-tips)
     * [程序员的工作 - 知乎](https://www.zhihu.com/collection/29036428)
-    * [Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn)
     * [互联网公司技术架构](https://github.com/davideuler/architecture.of.internet-product)
+    * [Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn)
+    * [PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)
+    * [大话设计模式PHP版](https://design-patterns-by-php.hulin.ink/)
+    * [GO语言学习资源整理]https://zhuanlan.zhihu.com/p/25493806
