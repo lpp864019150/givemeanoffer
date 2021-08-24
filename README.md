@@ -16,17 +16,25 @@
         * 禅道
 * 语言类
     * [php](http://php.net)
+        * [composer](https://www.phpcomposer.com/)
+        * [用户手册](https://www.php.net/manual/zh/)
+        * 框架
+            * [Yii](https://www.yiichina.com/doc/guide/2.0)
+            * [laravel](https://laravel.com/)
+            * [hyperf](https://hyperf.wiki/2.2/)
+            * [swoole](https://www.swoole.com/)
+            * [workerman](https://www.workerman.net/)
     * [go](https://zhuanlan.zhihu.com/p/25493806)
     * js
     * [编程规范](https://www.jianshu.com/p/b33155c15343)
 * 数据结构与算法设计
     * 数据结构
-    * 算法
+    * [算法](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/summary.md)
         * [冒泡排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
         * [插入排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
         * [选择排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
         * [快速排序](https://github.com/lpp864019150/givemeanoffer/blob/main/algorithm/algorithm.php)
-    * 设计模式
+    * [设计模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/summary.md)
         * [Design patterns for humans 中文版](https://github.com/guanguans/design-patterns-for-humans-cn)
         * [PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)
         * [大话设计模式PHP版](https://design-patterns-by-php.hulin.ink/)
@@ -39,7 +47,24 @@
             * [单例模式](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/singleton.php)
             * [对象池](https://github.com/lpp864019150/givemeanoffer/blob/main/patterns/pool.php)
         * 结构型
+            * 适配器模式
+            * 桥梁模式
+            * 组合模式
+            * 装饰模式
+            * 门面模式
+            * 享元模式
+            * 代理模式
         * 行为型
+            * 责任链模式
+            * 命令行模式
+            * 迭代器模式
+            * 中介者模式
+            * 备忘录模式
+            * 观察者模式
+            * 访问者模式
+            * 策略模式
+            * 状态模式
+            * 模板方法模式
 * 数据库
     * mysql
     * redis
@@ -69,3 +94,4 @@
     * [PHP设计模式范例](https://designpatternsphp.readthedocs.io/zh_CN/latest/README.html)
     * [大话设计模式PHP版](https://design-patterns-by-php.hulin.ink/)
     * [GO语言学习资源整理](https://zhuanlan.zhihu.com/p/25493806)
+    * [PHP面试问答](https://github.com/colinlet/PHP-Interview-QA)
