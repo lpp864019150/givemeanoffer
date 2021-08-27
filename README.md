@@ -68,13 +68,14 @@
 * 数据库
     * mysql
     * redis
+        * [REDIS缓存穿透，缓存击穿，缓存雪崩原因+解决方案](https://www.cnblogs.com/xichji/p/11286443.html)
     * elasticsearch
     * dorisdb
     * kafka
 * 网络与服务器
     * 网络
         * [三次握手，四次挥手](https://github.com/lpp864019150/givemeanoffer/blob/main/network/tcp.md)
-        * 网络五层、七层
+        * [网络五层、七层](https://www.cnblogs.com/qishui/p/5428938.html)
         * TCP
             * http/https
             * ftp
