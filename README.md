@@ -10,7 +10,7 @@
         * Navicat
         * DBeaver
     * SSH
-        * XShell
+        * [XShell](https://www.netsarang.com/en/free-for-home-school/)
         * SecureCRT
     * 项目管理
         * 禅道
@@ -24,6 +24,7 @@
             * [hyperf](https://hyperf.wiki/2.2/)
             * [swoole](https://www.swoole.com/)
             * [workerman](https://www.workerman.net/)
+            * [phalcon](https://docs.phalconphp.com/)
     * [go](https://zhuanlan.zhihu.com/p/25493806)
     * js
     * [编程规范](https://www.jianshu.com/p/b33155c15343)
@@ -67,11 +68,14 @@
             * 模板方法模式
 * 数据库
     * mysql
+    * mongodb
     * redis
         * [REDIS缓存穿透，缓存击穿，缓存雪崩原因+解决方案](https://www.cnblogs.com/xichji/p/11286443.html)
     * elasticsearch
+    * clickhouse
     * dorisdb
     * kafka
+    * nsq
 * 网络与服务器
     * 网络
         * [三次握手，四次挥手](https://github.com/lpp864019150/givemeanoffer/blob/main/network/tcp.md)
